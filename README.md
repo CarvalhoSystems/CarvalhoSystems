@@ -100,8 +100,7 @@
 
 ### 📊 Estatísticas
 
-
-<div align="left">
+<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=CarvalhoSystems&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats"
@@ -109,11 +108,16 @@
   />
 </div>
 
-   
-<div> 
-  <a href="https://instagram.com/rodrigoo_karenn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "rdigo37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <div>
-  <a href="https://http://www.linkedin.com/in/rodrigo-carvalho-273a8937a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </div>
+<br>
+
+<div align="center">
+  <a href="https://instagram.com/rodrigoo_karenn" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:rdigo37@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigo-carvalho-273a8937a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
