@@ -101,13 +101,13 @@
 ### 📊 Estatísticas
 
 
- <p align="left">
+<div align="left">
   <img 
+    src="https://github-readme-stats.vercel.app/api?username=CarvalhoSystems&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats"
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=CarvalhoSystems&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-</p>
+</div>
 
    
 <div> 
