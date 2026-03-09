@@ -100,11 +100,10 @@
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/CarvalhoSystems">
-    <img src="https://github-readme-stats.vercel.app/api?username=CarvalhoSystems&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="CarvalhoSystems GitHub Stats" />
+    <img src="./img/github.png" alt="GitHub Stats" height="200" style="padding-right: 10px;">
   </a>
 </div>
 
