@@ -13,7 +13,7 @@
 - ❤️ Apaixonado por tecnologia e sempre em busca de novos aprendizados  
 
 ## 🛠️ Tecnologias & Ferramentas  
-- **Linguagens:** JavaScript, Python, C++, Java e PHP 
+- **Linguagens:** JavaScript, Python, nodeJS, React.
 - **Versionamento:** Git & GitHub  
 - **Interesses:** Desenvolvimento Web, Back-end, Inteligência Artificial  
 
