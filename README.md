@@ -1,9 +1,9 @@
 # 👨🏽‍💻  Rodrigo de Carvalho
 
-**`Desenvolvedora Front-End`**
-**`Desenvolvedora Back-End`**
+**`Desenvolvedor Front-End`**
+**`Desenvolvedor Back-End`**
 
-# 👋 Olá, eu sou o Rodrigo de Carvalho
+# 👋 Olá, Me Chamo Rodrigo de Carvalho
 
 ## 🚀 Sobre mim  
 - 📍 Sou natural de **São Paulo - SP**  
